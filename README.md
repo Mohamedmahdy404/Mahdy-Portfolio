@@ -37,18 +37,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 ---
 
-## 📂 Project Structure
-```
-/portfolio
-│-- index.html       # Main HTML file
-│-- style.css        # Stylesheet for UI & animations
-│-- images/          # Image assets
-│-- scripts/         # JavaScript files
-│-- resume.pdf       # Downloadable resume
-│-- README.md        # This file
-```
-
----
 
 ## 🚀 Installation & Setup
 If you’d like to run this project locally:
@@ -70,13 +58,3 @@ If you’d like to run this project locally:
 📂 [GitHub](https://github.com/Mohamedmahdy404)  
 📧 [Email](mailto:mohamedmahdy3162@gmail.com)  
 
----
-
-### 🏆 Achievements
-🏅 Winner of **IC-SIT’2023** (International Competition on Smart Innovation Technologies)  
-💰 Received **ITAC CFPS** funding for my graduation project  
-
----
-
-## 📜 License
-This project is **MIT licensed** – feel free to use and modify it! 😊
