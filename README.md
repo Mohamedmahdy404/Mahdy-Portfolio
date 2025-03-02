@@ -17,13 +17,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 ### Frontend:
 - HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap, Tailwind CSS
 - Typed.js (for dynamic text animation)
-
-### Backend:
-- C#, ASP.NET Core
-- Entity Framework, LINQ
-- Microsoft SQL Server
 
 ### Other Tools:
 - Git & GitHub
