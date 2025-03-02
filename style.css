@@ -1021,6 +1021,12 @@ button:hover {
         margin: 2.5rem 0;
     }
 
+    .sec1__content a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.2rem; /* Add space between text and icon */
+    }
  
 }
 
