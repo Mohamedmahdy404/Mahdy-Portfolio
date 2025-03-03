@@ -363,11 +363,11 @@ section {
         align-items: center;
         justify-content: center;
         width: 70%; 
-      
+        margin-bottom: 10px;
     }
 
     .sec1__content a i {
-        margin-left: 0.5rem; 
+        margin-left: 0.5rem; /
     }
 }
 
