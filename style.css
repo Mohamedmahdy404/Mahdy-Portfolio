@@ -356,6 +356,23 @@ section {
     }
 }
 
+
+@media (max-width: 400px) {
+    .sec1__content a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 70%; 
+      
+    }
+
+    .sec1__content a i {
+        margin-left: 0.5rem; 
+    }
+}
+
+
+
 .sec2 {
     position: relative;
     min-height: 100vh;
@@ -1025,7 +1042,7 @@ button:hover {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        gap: 0.2rem; /* Add space between text and icon */
+        gap: 0.2rem; 
     }
  
 }
